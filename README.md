@@ -1,4 +1,4 @@
-# Hi, I'm Michał
+# Welcome to my profile
 
 ## About me:
 I am a Computer Science and Information Systems student at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology.
