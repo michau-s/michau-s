@@ -14,7 +14,7 @@ I'm always up for a challenge, whether it be hackathons, competitions or learnin
 
 |  Name |  Description | Languages & Technologies |
 | ------- | ----------- | ------------ |
-| [ Boid Simulation](https://github.com/michau-s/cuda-boids-simulation) | GUI application for simulating [boids](https://en.wikipedia.org/wiki/Boids). Can simulate real time herd behavior patterns of over 250'000 units in 3D on a modern gpu with full visualisation and GPU acceleration. | CUDA, C++, OpenGL, CMake, ImGUI |
+| [ Boid Simulation](https://github.com/michau-s/cuda-boids-simulation) | GUI application for simulating [boids](https://en.wikipedia.org/wiki/Boids). Can simulate real-time herd behavior patterns of over 250'000 units in 3D space on a modern gpu with full visualisation and GPU acceleration. | CUDA, C++, OpenGL, CMake, ImGUI |
 | [ Point Cloud Downsampling](https://github.com/michau-s/cuda-point-cloud-downsampling) | GPU accelerated GUI application for downsampling point clouds. Capable of downsampling large LiDAR scans of 100+ million points with Voxel Grid Downsampling and preserving geometric features of high-fidelity geometric data with Farthest Point Sampling. | CUDA, C++, OpenGL, CMake, ImGUI |
 | [Office Nightmares](https://github.com/Middle-Endian-HackYeah25/OfficeNightmare) | Horror browser game made in under 24 hours, with a team of 6 people in total. Developed as part of the [HackYeah 2025](https://hackyeah.pl/pl/#contact) competition in Kraków. | Godot, GDScript, Github actions|
 | [ Parkly]() | **`[UNDER DEVELOPMENT]`** Multi-Team project aimed to develop an application for finding and booking parking spots in Warsaw. Part of a larger system for digital nomads. | React, Java, Typescript, HTML, CSS, Figma, Rest API |
